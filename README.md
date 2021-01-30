@@ -1,5 +1,7 @@
 # Matplotlib-Challenge
 
+Understanding the fundamental of matplotlib using jupyter notebook
+
 # Matplotlib Homework - The Power of Plots
 
 ## Background
